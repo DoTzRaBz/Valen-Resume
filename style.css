@@ -55,7 +55,7 @@ a {
 }
 
 .contOut {
-  opacity: 1;
+  opacity: 0;
   width: 100%;
   max-width: 1080px;
   margin: 0 auto;
